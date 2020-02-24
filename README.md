@@ -14,3 +14,5 @@ feature-jenny commit 1
 feature-jack2 commit 1
 feature-jack commit 1
 >>>>>>> feature-jack
+
+feature2-jack commit 1
