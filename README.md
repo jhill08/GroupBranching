@@ -15,4 +15,8 @@ feature-jack2 commit 1
 feature-jack commit 1
 >>>>>>> feature-jack
 
+<<<<<<< HEAD
 feature-justin2 commit1
+=======
+feature2-jack commit 1
+>>>>>>> feature2-Jack
