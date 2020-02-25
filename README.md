@@ -20,4 +20,5 @@ feature-justin2 commit1
 =======
 
 feature-jack commit 1
+feature-james2 commit 1
 >>>>>>> feature-jack
