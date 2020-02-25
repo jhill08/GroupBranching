@@ -5,6 +5,7 @@ feature-justin commit 1
 feature-james commit 1
 >>>>>>> Stashed changes
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 feature-jenny commit 1
 >>>>>>> origin/feature-jenny
@@ -16,3 +17,7 @@ feature-jack commit 1
 >>>>>>> feature-jack
 
 feature-justin2 commit1
+=======
+
+feature-jack commit 1
+>>>>>>> feature-jack
