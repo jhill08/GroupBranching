@@ -25,3 +25,5 @@ feature-jack commit 1
 =======
 feature2-jack commit 1
 >>>>>>> feature2-Jack
+
+feature2-Jenny commit 2
